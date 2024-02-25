@@ -40,4 +40,4 @@ Posterior se realiza el entrenamiento y se obtiene los siguientes resultados.
 
 
 ## Conclusion
-Por lo antes mencionado, el mejor modelo para este caso, es el RandomForestClassifier, el cual es mayor en la preciosion del modelo, aunque el modelo nos da 3 casos Malignos como Benignos, tambien hay que mencionar que es el que mayor numero de malginos correctos obtuvo.
+Por lo antes mencionado, el mejor modelo para este caso, es el RandomForestClassifier, el cual es mayor en la preciosion del modelo, aunque el modelo nos da 3 casos Malignos como Benignos, tambien hay que mencionar que es el que mayor numero de malginosy benignas correctos obtuvo.
